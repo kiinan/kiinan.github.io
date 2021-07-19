@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+このサイトは、思いついた時に思いついたことをなんとなーく書いているだけですので、間違ったこと、一般的な考え方と違うことを書いていることがたくさんあると思います。書き終わってその後、全く違うことを考えている場合もありますので、なんだ、こういうこともあるんだな、こんなふうに思うこともあるんだな、というような感じでサラッと読んでいただけたらと思います。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+おもしろかった！！役立った！！というコメントいただけたらうれしい＾＾
+
+
+
+住んだとこがある土地：　石川県 / 富山県 / 新潟県 / 群馬県 / 埼玉県 / 千葉県 / 神奈川県 / 順不同
+行ったことがある国：　イギリス / フランス / デンマーク / ドイツ / オーストリア / イタリア / ロシア / 中国 / 香港 / インドネシア / グアムはアメリカか^^?
