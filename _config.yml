@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "MOM マム"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "２４hママ /　２人ボーイズ / ペットなし / 子供が寝たらゲームする"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://kiinan.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
