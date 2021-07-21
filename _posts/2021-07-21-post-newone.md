@@ -1,6 +1,6 @@
 ---
 title: "Post: newone"
-last_modified_at:
+last_modified_at: 2020-07-01
 categories:
   - Blog
 tags:
