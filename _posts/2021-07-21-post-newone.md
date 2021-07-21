@@ -1,6 +1,6 @@
 ---
 title: "Post: タイトルnewone"
-last_modified_at:2021-07-21
+last_modified_at:2021-07-21t15:34:30-04:00
 categories:
   - Blog
 tags:
@@ -9,6 +9,7 @@ tags:
   - standard
 
 ---
+
 ダンス
 This post has been updated and should show a modified date if used in a layout.
 
