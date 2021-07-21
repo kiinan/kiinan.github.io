@@ -1,6 +1,6 @@
 ---
-title: "Post: タイトルnewone"
-last_modified_at:2021-07-21t15:34:30-04:00
+title: "Post: newone"
+last_modified_at:
 categories:
   - Blog
 tags:
