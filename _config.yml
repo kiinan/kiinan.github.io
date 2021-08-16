@@ -19,7 +19,7 @@ locale                   : ja-JP
 title                    : "MOM IS COMING"
 title_separator          : "-"
 subtitle                 : "カフェ屋さんのレシピ集ブログ" # "site tagline that appears below site title in masthead”
-name                     : "私の名前"
+name                     : "Soda Coconuts Yogrut"
 description              : "のんびりとした説明"
 url                      : "https://kiinan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -71,7 +71,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : mfdazkEUxHP3nHs_I1plyhuh1qiv97z0q1rqsRpkt-M #https://search.google.com/search-console/welcome
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -93,17 +93,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-VCN35BM3RQ
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "著者の名前"
+  name             : "Soda Coconut Yogurt"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "ビオ説明"
+  bio              : "マクロビ、ココナッツヨーグルト"
   location         : "Somewhere"
   email            :
   links:
