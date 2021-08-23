@@ -1,0 +1,16 @@
+I"�<p>アバウト</p>
+
+<div id="main" role="main">
+  <article class="splash" itemscope="" itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="About" />
+    
+    
+    <meta itemprop="dateModified" content="2021-08-11T03:38:38-09:00" />
+
+    <section class="page__content" itemprop="text">
+      <p>Sorry, but the page you were trying to view does not exist.</p>
+
+    </section>
+  </article>
+</div>
+:ET

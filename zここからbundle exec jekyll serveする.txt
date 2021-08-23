@@ -1,0 +1,7 @@
+kiinan.github.ioだけgitする
+
+ローカルでサイトを確認したい場合は、
+このディレクトリからターミナルを開いてbundle exec jekyll serveする
+（このディレクトリは、jekylleでできているので）
+
+本番は、github-pagesと繋がったクラウドフレアのfwary.comにある
