@@ -1,4 +1,4 @@
-I"K,<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
+I"L1<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
 
@@ -694,6 +694,53 @@
 </div>
 
 <h2>Posts</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/cafe/00869/" rel="permalink">元バリスタ流｜ガギア・クラシックのメンテナンス方法Gaggia Classic
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-04-01T00:00:00-09:00">April 1, 2020</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"> ガギア・クラシックのメンテナンス方法＜Gaggia Classic＞
+&lt;/head&gt;
+
+
+
+
+        ガギア・クラシック＜Gaggia Classic＞は、キッチンにいながらにしてプロ品質のコーヒーを提供することで、家庭用エスプレッソシーンのスターとなりました。安物のミスター・コーヒーを買っ...</p>
+  </article>
+</div>
 
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
