@@ -1,4 +1,4 @@
-I"<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
+I"�<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
 
@@ -1055,6 +1055,49 @@
     <p class="archive__item-excerpt" itemprop="description">こんにちは！　元有名コーヒーチェーンでのバリスタ経験がある　ライターのCoYo コヨ　です♪　
 本記事では、ケメックスでのコーヒーの淹れ方 について、海外から取り寄せた情報をベースに、より詳しく、初心者の方にも分かりやすいように解説していきたいと思います。
 こちらの記事を読むことで、コーヒーへの知識がアップし、バ...</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/cafe/00850/" rel="permalink">元バリスタ流｜キューリグ・Kカップ人気の秘密
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-04-01T00:00:00-09:00">April 1, 2020</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">こんにちは！　元有名コーヒーチェーンでのバリスタ経験がある　ライターのCoYo コヨ　です♪
+本記事では、キューリグ・Kカップ人気の秘密 について、海外から取り寄せた情報をベースに、より詳しく、初心者の方にも分かりやすいように解説していきたいと思います。
+こちらの記事を読むことで、コーヒーへの知識がアップし、バリ...</p>
   </article>
 </div>
 
