@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Soda Coconut Yogurt"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "マクロビ、ココナッツヨーグルト"
-  location         : "Somewhere"
-  email            :
+  bio              : "マクロビと ココナッツヨーグルト"
+  location         : "Tokyo JP"
+#  email            :
   links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
@@ -116,15 +116,15 @@ author:
      - label: "Twitter"
        icon: "fab fa-fw fa-twitter-square"
        url: "https://twitter.com/"
-     - label: "Facebook"
-       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://facebook.com/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
      - label: "Instagram"
        icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/"
+       url: "https://instagram.com/fwaryfwary"
 
 # Site Footer
 footer:
@@ -132,9 +132,9 @@ footer:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/"
-  - label: "Facebook"
-    icon: "fab fa-fw fa-facebook-square"
-    url: "https://facebook.com/"
+#  - label: "Facebook"
+#    icon: "fab fa-fw fa-facebook-square"
+#    url: "https://facebook.com/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
       # url:
@@ -146,7 +146,7 @@ footer:
       # url:
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
-    url: " https://instagram.com/"
+    url: " https://instagram.com/fwaryfwary"
 
 
 # Reading Files
@@ -191,7 +191,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: <!-- excerpt-end -->
 incremental: false
 
 

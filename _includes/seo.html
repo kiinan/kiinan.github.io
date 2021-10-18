@@ -20,9 +20,9 @@
   {%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
 {% endif %}
 
-{%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
+{%- assign seo_description = page.description | default: page.excerpt | default: site.description | truncate: 160 -%}
 {%- if seo_description -%}
-  {%- assign seo_description = seo_description | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once | strip -%}
+  {%- assign seo_description = seo_description | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once | truncate: 160 | strip -%}
 {%- endif -%}
 
 {%- assign author = page.author | default: page.authors[0] | default: site.author -%}
@@ -48,7 +48,7 @@
 {%- endif -%}
 
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
-<meta name="description" content="{{ seo_description }}">
+<meta name="description" content="{{ seo_description | truncate: 160 }}">
 
 {% if author.name %}
   <meta name="author" content="{{ author.name | default: author }}">
@@ -64,7 +64,7 @@
 <meta property="og:url" content="{{ canonical_url }}">
 
 {% if seo_description %}
-  <meta property="og:description" content="{{ seo_description }}">
+  <meta property="og:description" content="{{ seo_description | truncate: 160 }}">
 {% endif %}
 
 {% if page_large_image %}
