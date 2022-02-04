@@ -22,3 +22,61 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+
+/* ==========================================================================
+   追記
+   ========================================================================== */
+
+/* 重要！マーカー線・赤 <span class="marker1"> でつける*/
+.marker1{
+background:linear-gradient(transparent 75%, #ffadad 75%);
+font-weight:bold; 
+}
+
+/* Point! 注目してほしいとこ枠線 class="point"*/
+.point {margin:0em ;display:inline-block;position:relative;top:3px;padding:0 .5em;height:1.5em;line-height:1.5em;color:#ffffff;background:#faa2a2;font-weight:bold;text-align:center;border-radius:5px 5px 0 0;
+}
+.point2 {background:rgba(255,255,255,0);border:solid 3px #faa2a2;border-radius:0 5px 5px;padding:20px;font-size: 100%;
+}
+
+
+/* 吹き出し画像付き LINE */
+
+
+
+/*画像付きリンクカード iframe は記事見本に置いてある*/
+
+
+/* 目次 をつける　題名は自分で記入
+<p>目次</p>
+<ol>
+<li><a href="#i1">題名</a></li>
+<li><a href="#i2">題名</a></li>
+</ol>
+
+h2にidをつける
+<h2 id="i1">
+ */
+
+ol {
+  color: #1e366a;
+  border: dotted #5381e4 1px;/*ドット 色 太さ*/
+  padding: 0.5em 0.5em 0.5em 2em;
+}
+
+ol li {
+  line-height: 1.5;
+  padding: 0.5em 0;
+}
+
+
+/****************************************
+        h２   deco ボタン
+*****************************************/
+
+/*h2 deco 青から緑のグラデライン*/
+.deco {
+  padding: 1rem 1rem;
+  border-left:1px solid #ffffff50;
+  background: linear-gradient(135deg,rgba(174, 217, 253, 0.781),rgba(167, 253, 253, 0.767));
+}
