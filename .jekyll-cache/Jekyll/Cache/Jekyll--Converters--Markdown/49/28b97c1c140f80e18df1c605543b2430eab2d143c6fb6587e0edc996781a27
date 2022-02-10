@@ -1,4 +1,4 @@
-I"�|	<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
+I"�	<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
 
@@ -582,7 +582,50 @@
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/kids/01/" rel="permalink">知育学習｜ダイソーの世界地図を定番のトイレに貼って定期テスト対策
+        <a href="/kids/mercari-googlethonyaku/" rel="permalink">メルカリ｜商品に書いてある文章を簡単にコピペする方法
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-02-09T00:00:00-09:00">February 9, 2022</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+      
+      今回は、メルカリで出品する時に役立つアプリの紹介です。出品物を見ながら地道に書き写していたのが、あっという間にコピペできますよ。面倒だったあの作業も一発簡単に解決する裏技です♪メルカリに慣れてくると、ちょっとずつ断捨離していきたいなぁと思って、とって置いてあるものってありますよね。うちでは、メルカリ出品BOXを作...</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/kids/daiso-worldmap/" rel="permalink">知育学習｜ダイソーの世界地図を定番のトイレに貼って定期テスト対策
 </a>
       
     </h2>
@@ -616,51 +659,7 @@
 
     <p class="archive__item-excerpt" itemprop="description">
       
-      
-</p>
-  </article>
-</div>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/camp/base/" rel="permalink">キャンプ用品｜キャンプブログのリスト
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-      
-      <span class="page__meta-date">
-        <i class="far fa-calendar-alt" aria-hidden="true"></i>
-        
-        <time datetime="2022-01-31T00:00:00-09:00">January 31, 2022</time>
-      </span>
-    
-
-    <span class="page__meta-sep"></span>
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          less than 1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">
-      
-      ここに記事を書く&lt;p&gt;&lt;/p&gt;・インスタ埋め込みはアカウントが消えない公式系から取ること&lt;/p&gt;&lt;h2 id="i2" class="deco"&gt;題名２&lt;/h2&gt;&lt;p&gt;&lt;iframe style="width:100%;height:1...</p>
+      今年はうちは、中学一年生がいます。今回は、ダイソーで世界地図を買ってきたので、そちらをレビューしたいと思います。中一の社会は、地理と歴史を単元ごとに交互に進めていく様になっているそうで、日本の地理、歴史(縄文、弥生とか)、世界地理、日本史(鎌倉時代辺り)の様な順番で1、2ヶ月かけて単元をすすんでいっているようです...</p>
   </article>
 </div>
 
